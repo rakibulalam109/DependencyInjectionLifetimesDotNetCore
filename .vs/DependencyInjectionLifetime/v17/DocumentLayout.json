@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|c:\\rakib\\dot net core projects\\my projects\\dependencyinjectionlifetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|c:\\rakib\\dot net core projects\\my projects\\dependencyinjectionlifetime\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|c:\\rakib\\dot net core projects\\my projects\\dependencyinjectionlifetime\\services\\singletonguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|solutionrelative:services\\singletonguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|c:\\rakib\\dot net core projects\\my projects\\dependencyinjectionlifetime\\services\\transientguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|solutionrelative:services\\transientguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|c:\\rakib\\dot net core projects\\my projects\\dependencyinjectionlifetime\\services\\itransientguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|solutionrelative:services\\itransientguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|c:\\rakib\\dot net core projects\\my projects\\dependencyinjectionlifetime\\services\\isingletonguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|solutionrelative:services\\isingletonguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|c:\\rakib\\dot net core projects\\my projects\\dependencyinjectionlifetime\\services\\scopedguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|solutionrelative:services\\scopedguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|c:\\rakib\\dot net core projects\\my projects\\dependencyinjectionlifetime\\services\\iscopedguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E52B10-72B4-4B32-A66C-050868B283AC}|DependencyInjectionLifetime.csproj|solutionrelative:services\\iscopedguidservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SingletonGuidService.cs",
+              "DocumentMoniker": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Services\\SingletonGuidService.cs",
+              "RelativeDocumentMoniker": "Services\\SingletonGuidService.cs",
+              "ToolTip": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Services\\SingletonGuidService.cs",
+              "RelativeToolTip": "Services\\SingletonGuidService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:28:34.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:26:32.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransientGuidService.cs",
+              "DocumentMoniker": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Services\\TransientGuidService.cs",
+              "RelativeDocumentMoniker": "Services\\TransientGuidService.cs",
+              "ToolTip": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Services\\TransientGuidService.cs",
+              "RelativeToolTip": "Services\\TransientGuidService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T13:17:18.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAADYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:43:38.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScopedGuidService.cs",
+              "DocumentMoniker": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Services\\ScopedGuidService.cs",
+              "RelativeDocumentMoniker": "Services\\ScopedGuidService.cs",
+              "ToolTip": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Services\\ScopedGuidService.cs",
+              "RelativeToolTip": "Services\\ScopedGuidService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:39:12.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITransientGuidService.cs",
+              "DocumentMoniker": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Services\\ITransientGuidService.cs",
+              "RelativeDocumentMoniker": "Services\\ITransientGuidService.cs",
+              "ToolTip": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Services\\ITransientGuidService.cs",
+              "RelativeToolTip": "Services\\ITransientGuidService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:38:27.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IScopedGuidService.cs",
+              "DocumentMoniker": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Services\\IScopedGuidService.cs",
+              "RelativeDocumentMoniker": "Services\\IScopedGuidService.cs",
+              "ToolTip": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Services\\IScopedGuidService.cs",
+              "RelativeToolTip": "Services\\IScopedGuidService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:37:10.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISingletonGuidService.cs",
+              "DocumentMoniker": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Services\\ISingletonGuidService.cs",
+              "RelativeDocumentMoniker": "Services\\ISingletonGuidService.cs",
+              "ToolTip": "C:\\Rakib\\Dot Net Core Projects\\My Projects\\DependencyInjectionLifetime\\Services\\ISingletonGuidService.cs",
+              "RelativeToolTip": "Services\\ISingletonGuidService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T11:09:45.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
